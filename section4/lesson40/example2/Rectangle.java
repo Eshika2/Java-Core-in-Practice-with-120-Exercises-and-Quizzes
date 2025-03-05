@@ -1,4 +1,4 @@
-package section4.lesson40.example2;
+package section4.lesson4.example2;
 
 public class Rectangle {
 
