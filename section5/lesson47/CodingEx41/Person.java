@@ -6,7 +6,7 @@ import java.util.*;
 public class Person implements Comparable <Person>{
 
     private String name;
-     int age;
+    private int age;
 
     public Person(String name, int age) {
         this.name = name;
