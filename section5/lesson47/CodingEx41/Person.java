@@ -1,4 +1,4 @@
-package section5.lesson47.CodingEx41;
+package section5.lesson47.CodingEx41
 
 import java.util.*;
 
